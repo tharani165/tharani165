@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,50:4c1d95,100:7c3aed&height=220&section=header&text=THARANI%20RAVI&fontSize=48&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20AI%20%26%20IoT%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="header-banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+data+pipelines+that+don't+break;Python+%2B+SQL+%2B+Prefect+%2B+Docker;IEEE+Published+%7C+Patent+Applied;Turning+raw+data+into+decisions" alt="Typing SVG" />
@@ -287,6 +287,6 @@ open_to:
 
 <i>"Good data pipelines are invisible — you only notice them when they're not there."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1a1033&height=120&section=footer" width="100%"/>
+<img src="footer-banner.svg" width="100%"/>
 
 </div>
