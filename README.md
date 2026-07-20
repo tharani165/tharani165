@@ -218,7 +218,7 @@ CodeChef:        (add handle)
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tharani165&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharani165&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=tharani165&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharani165&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%" />
 
@@ -229,8 +229,10 @@ CodeChef:        (add handle)
 ## Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tharani165&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=tharani165&theme=darkhub&column=4&margin-w=10&margin-h=10" />
 </div>
+
+> _If this image doesn't load, it's the free Vercel instance timing out (common — it's a shared community server, not something wrong with your setup). Reload the page after a minute, or check the "Trophy not loading" section below._
 
 <br/>
 
